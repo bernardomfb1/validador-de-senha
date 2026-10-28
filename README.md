@@ -50,6 +50,8 @@ T11 - Senha123 - SUCESSO: Sua senha passou nos critérios básicos!
 
 T12 - Cachorro_Verd3! - SUCESSO: Sua senha passou nos critérios básicos! 
 
-## Reflexão Final
+## Considerações finais
 
-Embora o programa valide regras básicas, passar por esses critérios não garante uma senha imune a ataques. Cibercriminosos utilizam diversos metodos e força bruta que quebram facilmente senhas curtas, mesmo com números e maiúsculas, especialmente se usarem datas, nomes ou substituições previsíveis. A responsabilidade do desenvolvedor vai muito além de impor regras, envolve educar o usuário com mensagens claras sobre a necessiddade de uma senha "forte" e segura, e fundamentalmente, garantir a segurança por trás das telas usando algoritmos robustos, que "forcem" o usuário a criar senhas fortes, para que o programa tenha proteção contra tentativas repetidas do usuário. Passar nestas quatro regras básicas não garante uma senha imune a ataques, pois o usuário pode criar algo como "Abcdefg1", que passa na validação, mas utiliza uma sequência muito previsível.
+Embora o programa valide regras básicas, passar por esses critérios não garante uma senha imune a ataques. Cibercriminosos utilizam diversos metodos e força bruta que quebram facilmente senhas curtas, mesmo com números e maiúsculas, aindad mais se usarem datas, nomes ou substituições previsíveis. A responsabilidade do desenvolvedor vai muito além de impor regras, envolve informar ao usuário com mensagens claras sobre a necessiddade de uma senha "forte" e segura, e também garantir a segurança por trás das telas usando algoritmos que "forcem" o usuário a criar senhas fortes, e também para que o programa tenha proteção contra tentativas repetidas do usuário.
+
+Passar nestas quatro regras básicas não garante uma senha imune a ataques, pois o usuário pode criar algo como "Abcdefg1", que passa na validação, mas utiliza uma sequência muito previsível.
