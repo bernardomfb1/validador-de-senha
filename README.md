@@ -27,16 +27,27 @@ Para encerrar, digite SAIR.
  ID - Entrada fictícia - Resultado obtido -
 
 T01 - Vazia - DICA: A senha deve ter no mínimo 8 caracteres. 
+
 T02 - batata - DICA: A senha deve ter no mínimo 8 caracteres. 
+
 T03 - Abcdef1 - DICA: A senha deve ter no mínimo 8 caracteres.  
+
 T04 - Abcdefgh - DICA: Adicione pelo menos um número à sua senha. 
+
 T05 - abcdefgh - DICA: Adicione pelo menos um número à sua senha. 
+
 T06 - 12345678 - ALERTA: Esta senha é muito comum ou óbvia. 
+
 T07 - senha123 - ALERTA: Esta senha é muito comum ou óbvia. 
+
 T08 - admin123 - ALERTA: Esta senha é muito comum ou óbvia. 
+
 T09 - abcdefgh1 - DICA: Adicione pelo menos uma letra maiúscula à sua senha. 
+
 T10 - Abcdefg1 - SUCESSO: Sua senha passou nos critérios básicos! 
+
 T11 - Senha123 - SUCESSO: Sua senha passou nos critérios básicos! 
+
 T12 - Cachorro_Verd3! - SUCESSO: Sua senha passou nos critérios básicos! 
 
 ## Reflexão Final
